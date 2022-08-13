@@ -1,3 +1,5 @@
+package Algorithm_FastCampus;
+
 public class DoubleLinkedList2<T> {
     public Node<T> head = null;
     public Node<T> tail = null; //doubleLinkedList 는 맨 마지막에서도 찾을 수 있게끔 tail 변수를 하나 더 설

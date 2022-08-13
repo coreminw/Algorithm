@@ -1,4 +1,4 @@
-// Chaining 기법은 hash에서 개방 해슁 또는 Open Hashing 기법 중 하나.
+package Algorithm_FastCampus;// Chaining 기법은 hash에서 개방 해슁 또는 Open Hashing 기법 중 하나.
 // 해쉬 테이블 저장공간 외의 공간을 활용하는 기법
 // 구현하기 위해 slot클래스와 데이터저장메소드, 데이터를 가져오는 메소드를 수정해야함.
 // 특정 slot을 접근해도 내 키에 대응하는 데이터인지 아니면 그 뒤에 연결된 링크드리스트중에 내 키에 대응하는 값이 있는지 확인해야하기 때문.

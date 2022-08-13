@@ -1,3 +1,5 @@
+package Algorithm_FastCampus;
+
 /* Linear Probing 기법
 * 폐쇄 해슁 또는 Close Hashing 기법 중 하나: 해쉬 테이블 저장공간 안에서 충돌 문제를 해결하는 기법
 * 쉽게말해 특정 슬롯이 충돌됐을 경우 그 슬롯 다음 슬롯에가서 비어있으면 저장하고, 그렇지 않으면 다른 슬롯에가서 저장하는 방법

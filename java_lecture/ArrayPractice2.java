@@ -1,3 +1,5 @@
+package Algorithm_FastCampus;
+
 import java.util.ArrayList;
 
 public class ArrayPractice2 {

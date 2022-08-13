@@ -1,3 +1,5 @@
+package Algorithm_FastCampus;
+
 public class ArrayQueue {
     int MAX = 1000;
     int front;

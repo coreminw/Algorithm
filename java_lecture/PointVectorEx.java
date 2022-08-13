@@ -1,3 +1,5 @@
+package Algorithm_FastCampus;
+
 import java.util.*;
 import java.lang.*;
 

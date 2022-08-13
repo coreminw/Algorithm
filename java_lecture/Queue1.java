@@ -1,3 +1,5 @@
+package Algorithm_FastCampus;
+
 import java.util.LinkedList;
 import java.util.Queue;
 

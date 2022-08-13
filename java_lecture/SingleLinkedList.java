@@ -1,3 +1,5 @@
+package Algorithm_FastCampus;
+
 public class SingleLinkedList<T> {
     Node<T> head = null;
 
