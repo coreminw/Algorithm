@@ -1,4 +1,4 @@
-package Algorithm_FastCampus;
+package java_lecture;
 
 public class DoubleLinkedList2<T> {
     public Node<T> head = null;
