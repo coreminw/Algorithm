@@ -1,4 +1,4 @@
-package Algorithm_FastCampus;
+package java_lecture;
 
 import java.util.Vector;
 
