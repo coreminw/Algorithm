@@ -1,4 +1,4 @@
-package Algorithm_FastCampus;
+package java_lecture;
 
 /* Linear Probing 기법
 * 폐쇄 해슁 또는 Close Hashing 기법 중 하나: 해쉬 테이블 저장공간 안에서 충돌 문제를 해결하는 기법
