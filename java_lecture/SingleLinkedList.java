@@ -1,4 +1,4 @@
-package Algorithm_FastCampus;
+package java_lecture;
 
 public class SingleLinkedList<T> {
     Node<T> head = null;
