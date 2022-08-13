@@ -1,6 +1,4 @@
-package Algorithm_FastCampus;
-
-import java.util.ArrayList;
+package java_lecture;
 
 public class ArrayPractice2 {
     public static void main(String[] args) {
