@@ -1,4 +1,4 @@
-package Algorithm_FastCampus;
+package java_lecture;
 
 public class HashTable_Ex1 {
     public Slot[] hashTable; // Slot이라는 클래스를 기반으로 한 객체 배열을 만들 수 있는 변수 hashtable 생성
