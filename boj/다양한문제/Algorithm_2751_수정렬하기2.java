@@ -1,4 +1,4 @@
-package 다양한문제;
+package boj.다양한문제;
 
 import java.io.BufferedReader;
 import java.io.IOException;
