@@ -1,3 +1,5 @@
+package boj.입출력;
+
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;

@@ -1,13 +1,17 @@
+package boj.입출력;
+
 import java.util.Scanner;
 
-public class Algorithm_10950 {
+public class Algorithm_10952 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        int T = sc.nextInt();
-        for (int i = 0; i<T; i++){
+        while(sc.hasNextInt()){
             int A = sc.nextInt();
             int B = sc.nextInt();
-            System.out.println(A+B);
+            if(A == 0 && B == 0){
+                break;
+            }
+            System.out.println(A + B);
         }
     }
 }
