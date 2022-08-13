@@ -1,4 +1,4 @@
-package Algorithm_FastCampus;
+package java_lecture;
 
 public class ArrayQueue {
     int MAX = 1000;
