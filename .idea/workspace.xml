@@ -4,7 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="73eedff1-8b57-4873-af63-129bd8426780" name="Changes" comment="" />
+    <list default="true" id="73eedff1-8b57-4873-af63-129bd8426780" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/ArrayListEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/ArrayPractice2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/ArrayQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ChainingHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/ChainingHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/DoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DoubleLinkedList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/DoubleLinkedList2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMapDicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/HashMapDicEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashMapScoreEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/HashMapScoreEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/HashTable_Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/HashTable_Ex1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/IteratorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/IteratorEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/LinearProbingHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/LinearProbingHash.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/PointVectorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/PointVectorEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/Queue1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue_Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/Queue_Practice1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Queue_Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/Queue_Practice3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/SingleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/VectorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/VectorEx.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -43,7 +62,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660409058241</updated>
-      <workItem from="1660409065454" duration="1123000" />
+      <workItem from="1660409065454" duration="1450000" />
     </task>
     <servers />
   </component>
