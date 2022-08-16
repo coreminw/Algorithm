@@ -5,29 +5,20 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="73eedff1-8b57-4873-af63-129bd8426780" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/Array.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayListEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/ArrayListEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayPractice2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/ArrayPractice2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ArrayQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/ArrayQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ChainingHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/ChainingHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/DoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DoubleLinkedList2.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/DoubleLinkedList2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMapDicEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/HashMapDicEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashMapScoreEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/HashMapScoreEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HashTable_Ex1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/HashTable_Ex1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/IteratorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/IteratorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LinearProbingHash.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/LinearProbingHash.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/PointVectorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/PointVectorEx.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/Queue1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue_Practice1.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/Queue_Practice1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Queue_Practice3.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/Queue_Practice3.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SingleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/SingleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/VectorEx.java" beforeDir="false" afterPath="$PROJECT_DIR$/Algorithm_FastCampus/VectorEx.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,6 +27,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2DJEzrCYTk6zZAZ28MKddu24kFG" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="1" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -51,8 +45,29 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="advanced.settings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Algorithm_11650_좌표정렬하기" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="boj.다양한문제.Algorithm_11650_좌표정렬하기" />
+      <module name="Algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="boj.다양한문제.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Algorithm_11650_좌표정렬하기" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -62,7 +77,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1660409058241</updated>
-      <workItem from="1660409065454" duration="1450000" />
+      <workItem from="1660409065454" duration="8618000" />
     </task>
     <servers />
   </component>
