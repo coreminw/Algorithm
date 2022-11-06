@@ -5,7 +5,7 @@ import java.io.InputStreamReader;
 import java.io.IOException;
 import java.util.StringTokenizer;
 
-public class Algorithm_N과M3 {
+public class Algorithm_15651_N과M3 {
 
     public static int[] arr;
     public static int N, M;
