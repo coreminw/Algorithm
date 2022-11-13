@@ -21,6 +21,7 @@ public class Algorithm_10872 {
             a = a * (N - 1);
             N--;
         }
+
         System.out.println(a);
     }
 }

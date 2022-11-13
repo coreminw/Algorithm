@@ -16,6 +16,7 @@ public class Algorithm_10872_2 {
             sum = sum * N;
             N --;
         }
+
         System.out.println(sum);
     }
 }
